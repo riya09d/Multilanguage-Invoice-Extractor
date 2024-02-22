@@ -1,6 +1,6 @@
 # MultiLanguage Invoice Extractor
 
-This Streamlit application is designed to extract information from invoices using Google Generative AI. Users can upload an image of an invoice and provide input prompts to generate information about the invoice content.
+The Invoice Extractor LLM (Language Learning Model) App is an application designed to extract information from invoices using Google Gemini Pro Vision Large, a powerful image recognition and understanding model. The app leverages advanced natural language processing (NLP) capabilities to analyze uploaded invoice images and provide relevant details based on user prompts.
 
 ## Installation
 
